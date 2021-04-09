@@ -24,7 +24,6 @@ $ flutter run
 ```
 
 
-## Credits
-- [Design Inspiration](https://goo.gl/Y5rd7L)
+
 
 
